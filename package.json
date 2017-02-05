@@ -1,0 +1,13 @@
+{
+  "name": "just-a-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kingstonfung/just-a-test.git",
+  "author": "Kingston Fung <kingston.fung@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.3",
+    "jslint": "^0.10.3",
+    "node-sass": "^4.5.0"
+  }
+}
